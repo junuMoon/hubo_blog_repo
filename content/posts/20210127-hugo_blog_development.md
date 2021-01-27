@@ -2,6 +2,7 @@
 title: "Hugo+Github Page 정적 웹페이지 블로그 만들기"
 date: 2021-01-27T12:39:08+09:00
 Tag: ["Git", "Blog"]
+toc: True
 ---
 
 ### 휴고를 선택한 이유
@@ -32,7 +33,7 @@ Hugo new site <프로젝트 이름>
 서브모듈로 사용하는 이유는 잠시 후에 다뤄보자.
 마지막으로 config.toml 파일에서 테마명을 지정해줘야 한다.
 
-```
+```bash
 git init
 git submodule add <anubis.git> themes/anubis
 echo 'theme = "anubis"' >> config.toml

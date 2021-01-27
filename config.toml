@@ -2,4 +2,29 @@ languageCode = "en-us"
 baseUrl =  "https://junumoon.github.io"
 title = "junuMoon"
 theme = "anubis"
-enableRobotsTXT = "false"
+enableRobotsTXT = false
+paginate = 100
+
+[author]
+	name = "Junu Moon"
+	bio = "dilettante, jack of all trades, master of none, the glass bead gamer"
+	
+
+[params]
+	author = "Junu Moon"
+	dateFormat = "2021-01-27"
+	style = "dark-without-switcher"
+	description = "Junu Moon's playboard about literally everythin"
+	opengraph = true
+	
+[menu]
+	[[menu.main]]
+	  identifier = "tags"
+	  name = "Tags"
+	  url = "/tags/"
+	  weight = 2
+
+[taxonmoies]
+category = "categories"
+tag = "tags"
+	
