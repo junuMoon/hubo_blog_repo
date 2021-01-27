@@ -1,7 +1,8 @@
 ---
 title: "Hugo+Github Page 정적 웹페이지 블로그 만들기"
 date: 2021-01-27T12:39:08+09:00
-tags: ["Git", "Blog"]
+Categories = ["Notes"]
+tags: ["Git", "Blog", "Hugo"]
 ---
 
 ### 휴고를 선택한 이유
