@@ -2,7 +2,7 @@
 title: "My Unbelievably FxxdUp Life Organizer1"
 date: 2021-01-28T12:36:53+09:00
 categories: ["Notes"]
-tags: ["MUFLO", "Blog", "writing", "management"]
+tags: ["MUFLO", "Blog", "writing", "management", "books"]
 ---
 
 새로운 사람을 알게되고 인사를 나눈다.
