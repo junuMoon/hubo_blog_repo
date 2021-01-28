@@ -1,5 +1,5 @@
 ---
-title: "My Unbelivably FxxdUp Life Organizer1"
+title: "My Unbelievably FxxdUp Life Organizer1"
 date: 2021-01-28T12:36:53+09:00
 categories: ["Notes"]
 tags: ["MUFLO", "Blog", "writing", "management"]
@@ -107,7 +107,7 @@ GIT을 이용해서 글쓰기 버전관리를 하면 최최최_진짜\_최종의
 그래서 우선 마구잡이로 적어대고 있다.
 github page를 hugo로 빌드해서 정적 블로그를 만들었다.
 목적 자체가 아무거나 마구잡이로 써놓으려고 만든 곳이다.
-지금까지 올려놓은 것은 1. Hugo 블로그 빌딩기 2. Hugo Taxonomies Guide 3. 카피레프트 4. 태그와 카테고리의 차이점(구상 중) 5. 지금 쓰는 내 믿지 못할만큼 ㅈ된 삶 오거나이저 My Unbelivably FxxdUp Life Organizer다.
+지금까지 올려놓은 것은 1. Hugo 블로그 빌딩기 2. Hugo Taxonomies Guide 3. 카피레프트 4. 태그와 카테고리의 차이점(구상 중) 5. 지금 쓰는 내 믿지 못할만큼 ㅈ된 삶 오거나이저 My Unbelievably FxxdUp Life Organizer다.
 스케줄러, 플래너가 아닌 것은 그걸 할 만큼 내 삶의 복잡도가 낮지 않기 때문이다.
 
 >  사회적으로 평범한 길을 벗어나는 것은 기꺼이 감수해야 하지만 우리가 정해놓은 기준과 스케줄은 지켜야만 한다.
