@@ -1,5 +1,5 @@
 ---
-title: "20210209 TIE Tensorflow Model"
+title: "[20210209_TIL] Tensorflow Model"
 date: 2021-02-09T20:12:34+09:00
 categories: ["TIL"]
 tags: ["Tensorflow", "DeepLearning"]
