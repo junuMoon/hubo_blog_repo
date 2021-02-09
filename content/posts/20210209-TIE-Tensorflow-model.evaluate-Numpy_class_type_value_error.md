@@ -1,5 +1,5 @@
 ---
-title: "20210209 TIE Tensorflow Model"
+title: "[20210209_TIE] Tensorflow Model"
 date: 2021-02-09T20:12:34+09:00
 categories: ["TIE"]
 tags: ["tensorflow", "numpy"]
