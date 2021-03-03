@@ -167,10 +167,34 @@ draft: true
 실수에서 배우려면 제대로 실수해야 한다.
 제대로 열심히 하지 않으면 틀리고서도 그것을 고치고 싶은 마음이 들지 않는다.
 
-### 혼이 담긴 구라
+- Write only enough of a unit test to fail
+- Write only enough production code to make the failing unit test pass.
+
+- 오직 테스트 유닛이 실패할 만큼만 적어라
+- 오직 실패한 테스트 유닛을 성공할만큼만 적어라
 
 
 
-### los ojos que traspasan lo entero
+### 실수들
 
-전체를 보는 눈이란 뭘까.
+1. 포맷문제
+   1. 내가 무엇을 해야한다고 생각했고
+   2. 그래서 무엇을 했고
+   3. 하지만 무엇이 잘못됐으며
+   4. 따라서 무엇을 해야하는지를 알기 위해
+2. 테스트 유닛만큼만
+   1. 목표는 완벽함이 아니라 과제 해결이다
+   2. 단기 목표를 설정하고 제한 시간을 두고 테스트를 진행한다.
+   3. 테스트 결과에 따라 다음 행동을 필요한 만큼만 한다.
+
+
+
+### 구조
+
+1. 서문: 아무도 무엇을 해야할지 알려주지 않는다
+2. 본문: 무엇이 무엇인지는 말해준다
+   1. 포맷
+      1. write only enough of a unit test to fail
+   2. 방향
+      1. write only enough to make failing unit test to pass.
+3. 결론: 미래는 자신이 개척해야 한다.
